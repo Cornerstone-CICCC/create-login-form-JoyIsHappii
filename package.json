@@ -1,0 +1,25 @@
+{
+  "name": "create-login-form-joyishappii",
+  "version": "1.0.0",
+  "description": "In this challenge, you will be creating a login form.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cornerstone-CICCC/create-login-form-JoyIsHappii.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Cornerstone-CICCC/create-login-form-JoyIsHappii/issues"
+  },
+  "homepage": "https://github.com/Cornerstone-CICCC/create-login-form-JoyIsHappii#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
