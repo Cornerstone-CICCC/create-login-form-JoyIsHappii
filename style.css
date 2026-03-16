@@ -211,11 +211,9 @@ input:hover::placeholder {
 }
 
 
-.input-box:focus-within {
-  border-color: var(--primary-color);
-
+.input-box:has(input:invalid:not(:placeholder-shown)) {
+  background-color: rgba(255, 0, 0, 0.10);
 }
-
 
 input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focus {
   outline: none;
